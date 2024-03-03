@@ -1,0 +1,364 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Over Ear Hi-Fi Stereo Foldable Wireless Headset with Microphone",
+        "price": 49.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "description": "Fitness Tracker with Heart Rate Monitor, Sleep Monitor, and Waterproof Design",
+        "price": 79.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "name": "Portable Blender",
+        "description": "Personal Size Blender USB Rechargeable with 6 Blades for Smoothies and Shakes",
+        "price": 29.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Gaming Mouse",
+        "description": "RGB LED Backlit Rechargeable Silent Mouse for PC, Laptop, and Mac",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 5,
+        "name": "Leather Wallet",
+        "description": "Slim Minimalist Front Pocket RFID Blocking Wallet for Men",
+        "price": 24.99,
+        "category": "Fashion",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 6,
+        "name": "Waterproof Hiking Backpack",
+        "description": "40L Lightweight Travel Backpack with Rain Cover",
+        "price": 49.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 7,
+        "name": "Stainless Steel Water Bottle",
+        "description": "Vacuum Insulated Double Wall Leak Proof Sports Water Bottle",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 8,
+        "name": "Cookware Set",
+        "description": "Nonstick Pots and Pans Set with Cooking Utensils",
+        "price": 89.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 9,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 10,
+        "name": "Wireless Earbuds",
+        "description": "Bluetooth 5.0 Headphones with Charging Case and Noise Cancelling",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 11,
+        "name": "Digital Kitchen Scale",
+        "description": "Multifunction Food Scale for Cooking and Baking",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 12,
+        "name": "Yoga Mat",
+        "description": "Extra Thick Exercise Mat with Carrying Strap",
+        "price": 24.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 13,
+        "name": "Dumbbell Set",
+        "description": "Adjustable Dumbbells Pair with Non-Slip Handle",
+        "price": 49.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 14,
+        "name": "Travel Backpack",
+        "description": "Lightweight Packable Backpack for Travel, Hiking, and Camping",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 15,
+        "name": "Bluetooth Speaker",
+        "description": "Portable Wireless Speaker with HD Sound and Bass",
+        "price": 29.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 16,
+        "name": "Wireless Charging Pad",
+        "description": "Qi-Certified 10W Fast Charging Pad for iPhone and Android",
+        "price": 19.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 17,
+        "name": "Insulated Lunch Bag",
+        "description": "Reusable Cooler Tote Bag with Adjustable Shoulder Strap",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 18,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands for Home Workouts with Door Anchor and Handles",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 19,
+        "name": "Electric Kettle",
+        "description": "Stainless Steel Hot Water Kettle with Auto Shut-Off and Boil-Dry Protection",
+        "price": 29.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 20,
+        "name": "Resistance Bands Set",
+        "description": "5 Stackable Exercise Bands with Door Anchor, Ankle Straps, and Carrying Case",
+        "price": 39.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 21,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Over Ear Hi-Fi Stereo Foldable Wireless Headset with Microphone",
+        "price": 49.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 22,
+        "name": "Smart Watch",
+        "description": "Fitness Tracker with Heart Rate Monitor, Sleep Monitor, and Waterproof Design",
+        "price": 79.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 23,
+        "name": "Portable Blender",
+        "description": "Personal Size Blender USB Rechargeable with 6 Blades for Smoothies and Shakes",
+        "price": 29.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 24,
+        "name": "Wireless Gaming Mouse",
+        "description": "RGB LED Backlit Rechargeable Silent Mouse for PC, Laptop, and Mac",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 25,
+        "name": "Leather Wallet",
+        "description": "Slim Minimalist Front Pocket RFID Blocking Wallet for Men",
+        "price": 24.99,
+        "category": "Fashion",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 26,
+        "name": "Waterproof Hiking Backpack",
+        "description": "40L Lightweight Travel Backpack with Rain Cover",
+        "price": 49.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 27,
+        "name": "Stainless Steel Water Bottle",
+        "description": "Vacuum Insulated Double Wall Leak Proof Sports Water Bottle",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 28,
+        "name": "Cookware Set",
+        "description": "Nonstick Pots and Pans Set with Cooking Utensils",
+        "price": 89.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 29,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 30,
+        "name": "Wireless Earbuds",
+        "description": "Bluetooth 5.0 Headphones with Charging Case and Noise Cancelling",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 31,
+        "name": "Digital Kitchen Scale",
+        "description": "Multifunction Food Scale for Cooking and Baking",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 32,
+        "name": "Yoga Mat",
+        "description": "Extra Thick Exercise Mat with Carrying Strap",
+        "price": 24.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 33,
+        "name": "Dumbbell Set",
+        "description": "Adjustable Dumbbells Pair with Non-Slip Handle",
+        "price": 49.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 34,
+        "name": "Travel Backpack",
+        "description": "Lightweight Packable Backpack for Travel, Hiking, and Camping",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 35,
+        "name": "Bluetooth Speaker",
+        "description": "Portable Wireless Speaker with HD Sound and Bass",
+        "price": 29.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 36,
+        "name": "Wireless Charging Pad",
+        "description": "Qi-Certified 10W Fast Charging Pad for iPhone and Android",
+        "price": 19.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 37,
+        "name": "Insulated Lunch Bag",
+        "description": "Reusable Cooler Tote Bag with Adjustable Shoulder Strap",
+        "price": 14.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 38,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands for Home Workouts with Door Anchor and Handles",
+        "price": 19.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 39,
+        "name": "Electric Kettle",
+        "description": "Stainless Steel Hot Water Kettle with Auto Shut-Off and Boil-Dry Protection",
+        "price": 29.99,
+        "category": "Home & Kitchen",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 40,
+        "name": "Resistance Bands Set",
+        "description": "5 Stackable Exercise Bands with Door Anchor, Ankle Straps, and Carrying Case",
+        "price": 39.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 41,
+        "name": "Wireless Charging Pad",
+        "description": "Qi-Certified 10W Fast Charging Pad for iPhone and Android",
+        "price": 19.99,
+        "category": "Electronics",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 42,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 43,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 44,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 45,
+        "name": "Resistance Bands Set",
+        "description": "Exercise Bands with Handles, Door Anchor, Ankle Straps, and Carry Bag",
+        "price": 29.99,
+        "category": "Sports & Outdoors",
+        "image": "https://via.placeholder.com/150"
+      }
+      ]
+    }
